@@ -17,7 +17,7 @@
             "xver": 1
           },
           {
-            "path": "/vmess",
+            "path": "/worryfree",
             "dest": 34802,
             "xver": 1
           },
@@ -80,7 +80,7 @@
         "security": "none",
         "wsSettings": {
           "acceptProxyProtocol": true,
-          "path": "/vmess"
+          "path": "/worryfree"
         }
       }
     },
