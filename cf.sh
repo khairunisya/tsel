@@ -1,9 +1,9 @@
 #!/bin/bash
 apt install jq curl -y
-DOMAIN=dnsvstunnel.xyz
+DOMAIN=xraybest.ninja
 #sub=$(tr </dev/urandom -dc a-z0-9 | head -c4)
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
-SUB_DOMAIN=${sub}.dnsvstunnel.xyz
+SUB_DOMAIN=${sub}.xraybest.ninja
 CF_ID=vstunnel@gmail.com
 CF_KEY=bf2f943aba9cefaf4cc246ab198519ab15e93
 set -euo pipefail
